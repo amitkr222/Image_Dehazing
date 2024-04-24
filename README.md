@@ -7,6 +7,6 @@ THIS IS A FULL IMPLEMENTATION OF CVPR 2021 PAPER ON IMAGE DEHAZING AND DERAINING
 3. Extract the .gz file and put the two folders at `RaindropDepth` and `RaindropGroundtruth`.
 ## Input Hazy image and Output Dehazed image:
 <figure class="half">
-    <img src="22_outdoor_gt.jpg">
+    <img src="22_outdoor.jpg">
     <img src="22_outdoor_4.jpg">
 </figure>
